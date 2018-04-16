@@ -1,1 +1,0 @@
--wto "8e226c8c407a48c19f82860e52934f87" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_sobelf_behav" "xil_defaultlib.tb_sobelf" -log "elaborate.log" 
