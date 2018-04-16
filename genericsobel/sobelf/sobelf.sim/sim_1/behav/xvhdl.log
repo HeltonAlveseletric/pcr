@@ -1,0 +1,12 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Helton/Documents/VHDL/sobel/genericsobel/gy/filtrosobel5x5g2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity filtrosobel5x5g2
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Helton/Documents/VHDL/sobel/genericsobel/gx/filtrosobel5x5g1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity filtrosobel5x5g1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Helton/Documents/VHDL/sobel/genericsobel/demux/demux2x1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity demux2x1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Helton/Documents/VHDL/sobel/genericsobel/mux/mux2x1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux2x1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Helton/Documents/VHDL/sobel/genericsobel/top/sobelc.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity sobelc
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Helton/Documents/VHDL/sobel/genericsobel/sobelf/sobelf.srcs/sim_1/new/tb_sobelf.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tb_sobelf

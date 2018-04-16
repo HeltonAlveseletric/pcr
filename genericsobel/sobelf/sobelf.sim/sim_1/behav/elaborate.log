@@ -1,0 +1,23 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto 8e226c8c407a48c19f82860e52934f87 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_sobelf_behav xil_defaultlib.tb_sobelf -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_textio
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.std_logic_signed
+Compiling architecture behavioral of entity xil_defaultlib.demux2x1 [demux2x1_default]
+Compiling architecture behavioral of entity xil_defaultlib.filtrosobel5x5g1 [filtrosobel5x5g1_default]
+Compiling architecture behavioral of entity xil_defaultlib.filtrosobel5x5g2 [filtrosobel5x5g2_default]
+Compiling architecture behavioral of entity xil_defaultlib.mux2x1 [mux2x1_default]
+Compiling architecture behavioral of entity xil_defaultlib.sobelc [sobelc_default]
+Compiling architecture behavioral of entity xil_defaultlib.tb_sobelf
+Built simulation snapshot tb_sobelf_behav

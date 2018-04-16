@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../../gy/filtrosobel5x5g2.vhd"
+vhdl xil_defaultlib  "../../../../gx/filtrosobel5x5g1.vhd"
+vhdl xil_defaultlib  "../../../../demux/demux2x1.vhd"
+vhdl xil_defaultlib  "../../../../mux/mux2x1.vhd"
+vhdl xil_defaultlib  "../../../../top/sobelc.vhd"
+vhdl xil_defaultlib  "../../../sobelf.srcs/sim_1/new/tb_sobelf.vhd"
+
+# Do not sort compile order
+nosort

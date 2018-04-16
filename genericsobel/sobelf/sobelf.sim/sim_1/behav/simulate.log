@@ -1,0 +1,4 @@
+Vivado Simulator 2016.4
+Time resolution is 1 ps
+Warning: FIM DA LEITURA
+Time: 99995 ns  Iteration: 0  Process: /tb_sobelf/read_from_file  File: C:/Users/Helton/Documents/VHDL/sobel/genericsobel/sobelf/sobelf.srcs/sim_1/new/tb_sobelf.vhd
